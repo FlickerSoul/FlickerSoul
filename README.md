@@ -2,12 +2,13 @@
 
 This is Larry Zeng, an ambitious developer interested in PL theory and a rock climber in the leisure time. 
 
+- 🎇 Wants to tell and be part of good stories
 - 🎒 A backend developer who can do some frontend
 - 💨 A mobile developer for both iOS and Android 
 - 🚀 Not really a DevOps developer but loves doing automation and CI/CD
-- 📚 A researcher who sometimes procrastinate XD
+- 📚 A researcher who sometimes procrastinate but constantly learning XD
 - 👐 Looking forward to learning new things
-- 🎧 
+- 🎧 Loves music 
 
 ## Website 
 
